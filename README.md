@@ -5,6 +5,9 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
 
 - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iijima-naoya-45b&layout=compact&theme=tokyonight)
 
