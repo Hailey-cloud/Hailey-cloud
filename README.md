@@ -1,5 +1,6 @@
-<h1 align="center">Hi there 👋, I'm Hina Tonomura</h1>
-<h3 align="center">Aspiring Data Scientist & Analyst | Python • SQL • Tableau</h3>
+<h1 align="center">Hi👋, I'm Hina Tonomura</h1>
+<h3 align="center">Experienced Data Analysis in Degital Marketing Company and Aspiring Data Scientist </h3>
+<h4 align="center">| Python • SQL • Machine Learning • Tableau | </h4>
 
 ---
 
@@ -23,18 +24,6 @@ I enjoy working on real-world data problems and constantly strive to improve my 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
----
-
-## 📂 Featured Projects
-
-- 📈 **[Store Sales Forecasting](https://github.com/Hailey-cloud/store-sales-forecasting)**  
-  Forecasting daily sales using time series models like Prophet and XGBoost.
-
-- 🔍 **[Customer Churn Analysis](https://github.com/Hailey-cloud/customer-churn-analysis)**  
-  Analyzing and predicting customer churn using Python and visualization in Tableau.
-
-- 🚢 **[Titanic EDA & Modeling](https://github.com/Hailey-cloud/titanic-analysis)**  
-  Classic dataset for binary classification with EDA and feature engineering.
 
 ---
 
@@ -47,9 +36,9 @@ I enjoy working on real-world data problems and constantly strive to improve my 
 
 ## 📫 Contact Me
 
-- 📧 Email: your.email@example.com  
+- 📧 Email: tonomura.hina@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- 🌐 [Portfolio](https://yourportfolio.com) *(if available)*
+- 🌐 [Portfolio](https://yourportfolio.com) 
 
 ---
 
