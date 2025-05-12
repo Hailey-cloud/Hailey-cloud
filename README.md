@@ -37,7 +37,7 @@ I enjoy working on real-world data problems and constantly strive to improve my 
 ## 📫 Contact Me
 
 - 📧 Email: tonomura.hina@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/hina-tonomura-471b09330/)  
 - 🌐 [Portfolio](https://yourportfolio.com) 
 
 ---
